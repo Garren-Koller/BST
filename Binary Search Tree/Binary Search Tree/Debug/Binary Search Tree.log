@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\garre\source\repos\Binary Search Tree\Binary Search Tree\main.cpp(8,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\garre\source\repos\Binary Search Tree\Binary Search Tree\BST.h(223): warning C4715: 'BST<int>::remove': not all control paths return a value
+  Binary Search Tree.vcxproj -> C:\Users\garre\source\repos\Binary Search Tree\Debug\Binary Search Tree.exe
